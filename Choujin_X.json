@@ -3,15 +3,15 @@
   "description": "Second-year high school student Tokio Kurohara likes to slack off in class. However, despite his attitude at school, he works alongside his childhood friend Azuma Higashi to combat the brewing injustice in their town. In contrast to Tokio, Azuma is physically capable and rarely struggles against the common thugs the pair regularly encounter. Yet, there are fights that even Azuma will not pick. Choujins—supernatural beings with powers beyond mere mortals—are entities that Tokio and Azuma avoid at all costs. One day, when a previously defeated thug returns to exact revenge, the two are forced into a scuffle. Unable to flee from their foe, the duo injects themselves with a drug that can turn someone into a Choujin. While the dose seemingly has no physical effect on Azuma, Tokio grows a beak. In fear of being seen, Tokio must now figure out how to hide his new identity as a Choujin. But it seems that there are people out there who are angry at Tokio and Azuma's use of the Choujin drug, and they do not seem to want to stay quiet about it.",
   "artist": "Sui Ishida",
   "author": "Sui Ishida",
-  "cover": "https://static.wikia.nocookie.net/choujin-x/images/1/11/Volume_01_%28EN%29.png",
+  "cover": "https://static.wikia.nocookie.net/choujin-x/images/4/4f/Volume_02_%28EN%29.png/revision/latest/scale-to-width-down/1000?cb=20230408044028",
   "chapters": {
-    "2023": {
+    "1": {
       "title": "",
-      "last_updated": "1762553832",
+      "last_updated": "1763331312",
       "groups": {
-        "1r0n": "/proxy/api/imgchest/chapter/bp45mr3nxy5"
+        "1r0n": "/proxy/api/imgchest/chapter/6eyrajlwe4p"
       },
-      "volume": "01"
+      "volume": "02"
     }
   }
 }
