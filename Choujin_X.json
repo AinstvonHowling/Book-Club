@@ -1,17 +1,185 @@
 {
   "title": "Choujin X",
-  "description": "Second-year high school student Tokio Kurohara likes to slack off in class. However, despite his attitude at school, he works alongside his childhood friend Azuma Higashi to combat the brewing injustice in their town. In contrast to Tokio, Azuma is physically capable and rarely struggles against the common thugs the pair regularly encounter. Yet, there are fights that even Azuma will not pick. Choujins—supernatural beings with powers beyond mere mortals—are entities that Tokio and Azuma avoid at all costs. One day, when a previously defeated thug returns to exact revenge, the two are forced into a scuffle. Unable to flee from their foe, the duo injects themselves with a drug that can turn someone into a Choujin. While the dose seemingly has no physical effect on Azuma, Tokio grows a beak. In fear of being seen, Tokio must now figure out how to hide his new identity as a Choujin. But it seems that there are people out there who are angry at Tokio and Azuma's use of the Choujin drug, and they do not seem to want to stay quiet about it.",
+  "description": "Azuma Higashi is a rather popular boy. Although he may be somewhat small, he has good fighting skills, a strong sense of justice, and his grades are at the top of his class. This is the opposite of Tokio Kurohara, his friend who does not listen in class and is simply a bystander while Azuma fights. Nonetheless, these two childhood friends' bond is strong, no matter how different they may be.",
   "artist": "Sui Ishida",
   "author": "Sui Ishida",
   "cover": "https://static.wikia.nocookie.net/choujin-x/images/4/4f/Volume_02_%28EN%29.png/revision/latest/scale-to-width-down/1000?cb=20230408044028",
   "chapters": {
-    "1": {
+    "2023": {
       "title": "",
-      "last_updated": "1763331312",
+      "last_updated": "1762197042",
       "groups": {
-        "1r0n": "/proxy/api/imgchest/chapter/6eyrajlwe4p"
+        "": "/proxy/api/imgchest/chapter/wl7lal6zpyx"
       },
-      "volume": "02"
+      "volume": "03"
+    },
+    "1": {
+      "title": "Behold the Man",
+      "last_updated": "1763333361",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/agyvxkxwk78"
+      },
+      "volume": "1"
+    },
+    "2": {
+      "title": "Uncrossed Paths! Two Choujin",
+      "last_updated": "1763333479",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/n87w939eqyx"
+      },
+      "volume": "1"
+    },
+    "3": {
+      "title": "Stand by the West",
+      "last_updated": "1763333537",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/92492r2d8yn"
+      },
+      "volume": "1"
+    },
+    "4": {
+      "title": "June 14 -  Innocent World",
+      "last_updated": "1763333571",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/na7ka6aow48"
+      },
+      "volume": "1"
+    },
+    "5": {
+      "title": "44",
+      "last_updated": "1763333613",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/wl7lava93yx"
+      },
+      "volume": "1"
+    },
+    "6": {
+      "title": "First Apostasy",
+      "last_updated": "1763333675",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/ej7maxa9a7d"
+      },
+      "volume": "1"
+    },
+    "10": {
+      "title": "",
+      "last_updated": "1763333726",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/o24a2r23e7l"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "",
+      "last_updated": "1763333769",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/92492r2v8yn"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "",
+      "last_updated": "1763333823",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/vj4jeaek978"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "",
+      "last_updated": "1763333874",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/qe4gmgmjk4j"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "",
+      "last_updated": "1763333942",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/xny8edevwyb"
+      },
+      "volume": "2"
+    },
+    "15": {
+      "title": "",
+      "last_updated": "1763334005",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/9p4nv9vw5yn"
+      },
+      "volume": "2"
+    },
+    "7": {
+      "title": "",
+      "last_updated": "1763334121",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/5xy2q9q88yl"
+      },
+      "volume": "2"
+    },
+    "8": {
+      "title": "",
+      "last_updated": "1763334163",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/n87w939xbyx"
+      },
+      "volume": "2"
+    },
+    "9": {
+      "title": "",
+      "last_updated": "1763334209",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/qe4gmgm5b4j"
+      },
+      "volume": "2"
+    },
+    "16": {
+      "title": "",
+      "last_updated": "1763334291",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/bp45mlm5gy5"
+      },
+      "volume": "3"
+    },
+    "17": {
+      "title": "",
+      "last_updated": "1763334388",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/md7oana89yp"
+      },
+      "volume": "3"
+    },
+    "18": {
+      "title": "",
+      "last_updated": "1763334495",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/ej7maxa8j7d"
+      },
+      "volume": "3"
+    },
+    "19": {
+      "title": "",
+      "last_updated": "1763334576",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/agyvxkxxz78"
+      },
+      "volume": "3"
+    },
+    "20": {
+      "title": "",
+      "last_updated": "1763334644",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/5xy2q9qq8yl"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "",
+      "last_updated": "1763334725",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/6eyrajaa64p"
+      },
+      "volume": "3"
     }
   }
 }
