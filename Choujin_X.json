@@ -3,7 +3,7 @@
   "description": "Azuma Higashi is a rather popular boy. Although he may be somewhat small, he has good fighting skills, a strong sense of justice, and his grades are at the top of his class. This is the opposite of Tokio Kurohara, his friend who does not listen in class and is simply a bystander while Azuma fights. Nonetheless, these two childhood friends' bond is strong, no matter how different they may be.",
   "artist": "Sui Ishida",
   "author": "Sui Ishida",
-  "cover": "https://static.wikia.nocookie.net/choujin-x/images/4/4f/Volume_02_%28EN%29.png/revision/latest/scale-to-width-down/1000?cb=20230408044028",
+  "cover": "https://static.wikia.nocookie.net/choujin-x/images/6/68/Volume_06_%28EN%29.png/revision/latest/scale-to-width-down/1000?cb=20240619044803",
   "chapters": {
     "1": {
       "title": "Behold the Man",
@@ -268,6 +268,54 @@
         "1r0n": "/proxy/api/imgchest/chapter/qe4gqdz6r7j"
       },
       "volume": "5"
+    },
+    "34": {
+      "title": "I Got 2 Know",
+      "last_updated": "1765790559",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/agyvnrv2j48"
+      },
+      "volume": "6"
+    },
+    "35": {
+      "title": "High School, Year 2",
+      "last_updated": "1765790684",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/5xy2o2baz4l"
+      },
+      "volume": "6"
+    },
+    "36": {
+      "title": "Who are you",
+      "last_updated": "1765790804",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/pg73olbgg7r"
+      },
+      "volume": "6"
+    },
+    "37": {
+      "title": "On the turn",
+      "last_updated": "1765790924",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/9249k3dwbyn"
+      },
+      "volume": "7"
+    },
+    "38": {
+      "title": "Opium",
+      "last_updated": "1765791013",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/5xy2o2b8z4l"
+      },
+      "volume": "7"
+    },
+    "39": {
+      "title": "As You Sleep",
+      "last_updated": "1765791103",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/6eyrnlxmx7p"
+      },
+      "volume": "7"
     }
   }
 }
