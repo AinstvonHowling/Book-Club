@@ -316,6 +316,38 @@
         "1r0n": "/proxy/api/imgchest/chapter/6eyrnlxmx7p"
       },
       "volume": "7"
+    },
+    "40": {
+      "title": "Dose me, dose me",
+      "last_updated": "1765808669",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/agyvnr28z48"
+      },
+      "volume": "7"
+    },
+    "41.1": {
+      "title": "Hyena, Part 1",
+      "last_updated": "1765808813",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/vj4jm892e48"
+      },
+      "volume": "8"
+    },
+    "41.2": {
+      "title": "Hyena, Part 2",
+      "last_updated": "1765809023",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/bp45oq3bg75"
+      },
+      "volume": "8"
+    },
+    "42": {
+      "title": "Closed System",
+      "last_updated": "1765809134",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/md7ob89o94p"
+      },
+      "volume": "8"
     }
   }
 }
