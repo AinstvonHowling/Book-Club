@@ -460,6 +460,38 @@
         "1r0n": "/proxy/api/imgchest/chapter/pg73ollbz7r"
       },
       "volume": "11"
+    },
+    "59": {
+      "title": "Empty",
+      "last_updated": "1765875516",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/6eyrnl3ql7p"
+      },
+      "volume": "12"
+    },
+    "60": {
+      "title": "At the End of the Pilgrimage",
+      "last_updated": "1765875585",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/n87wnm8kq7x"
+      },
+      "volume": "12"
+    },
+    "61": {
+      "title": "GO TO THE FUTURE",
+      "last_updated": "1765875665",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/xny86mrgw4b"
+      },
+      "volume": "12"
+    },
+    "62": {
+      "title": "Stripped",
+      "last_updated": "1765875741",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/m9yxn35e67q"
+      },
+      "volume": "13"
     }
   }
 }
