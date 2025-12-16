@@ -492,6 +492,38 @@
         "1r0n": "/proxy/api/imgchest/chapter/m9yxn35e67q"
       },
       "volume": "13"
+    },
+    "58": {
+      "title": "Demand-cue",
+      "last_updated": "1765897721",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/dl7pn8bo3yo"
+      },
+      "volume": "11"
+    },
+    "63": {
+      "title": "Hear the Newborn's Cry",
+      "last_updated": "1765897775",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/wl7lwo8vx4x"
+      },
+      "volume": "13"
+    },
+    "64": {
+      "title": "Not you anymore",
+      "last_updated": "1765897805",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/6eyrnlbjx7p"
+      },
+      "volume": "13"
+    },
+    "49": {
+      "title": "The Matters Leading Up to August 1999",
+      "last_updated": "1765897949",
+      "groups": {
+        "1r0n": "/proxy/api/imgchest/chapter/pg73olqng7r"
+      },
+      "volume": "9"
     }
   }
 }
